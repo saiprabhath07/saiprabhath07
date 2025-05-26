@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=1A9FFF&center=true&vCenter=true&width=800&height=70&lines=Hey%2C+I%27m+P.+Shanmuka+Sai+Prabhath+%F0%9F%91%8B+(Obito+Tobi)!;I+don%E2%80%99t+just+learn+tech+%E2%80%94+I+integrate+it+into+who+I+am." alt="Intro Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1A9FFF&center=true&vCenter=true&width=700&height=50&lines=Hey%2C+I'm+P.+Shanmuka+Sai+Prabhath+%F0%9F%91%8B;'Mind+behind+the+machine'+%F0%9F%A7%A0;Developer+%7C+Automation+Enthusiast+%F0%9F%94%A5;AI+Explorer+%7C+Obito+Tobi+(online)+%F0%9F%92%BB" />
 </p>
 
 <p align="center">
