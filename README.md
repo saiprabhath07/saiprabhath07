@@ -24,6 +24,10 @@
   ⚡ Fun fact: <b>I treat GitHub like my daily dev dojo 🥷</b>
 </p>
 
+<p align="left"> <a href="https://twitter.com/saiprabhath07" target="blank"><img src="https://img.shields.io/twitter/follow/saiprabhath07?logo=twitter&style=for-the-badge" alt="saiprabhath07" /></a> </p>
+
+
+
 <!-- Section Divider GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/f9XgHHnPnDjwA/giphy.gif" width="120" />
