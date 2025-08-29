@@ -90,9 +90,11 @@
 
 <h2 align="center">🏆 GitHub Stats & Trophies</h2>
 
-<p align="center">
+<!-----<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saiprabhath07&theme=algolia&no-bg=true&margin-w=10&column=7" alt="Trophies" />
-</p>
+</p>   under construction------>
+## 🏆 GitHub Stats
+![Tobi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiprabhath07&show_icons=true&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saiprabhath07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
