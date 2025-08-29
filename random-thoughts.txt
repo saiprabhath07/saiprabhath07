@@ -1,1 +1,5 @@
-nothing for now 
+the smthing for now 
+1.First task
+→go to this chatgpt(open ai) chat and try to understand, learn and code atleast figure out some functions 
+→include tht into code into this github readme yo improve ur readme with ur new terminal animated characters 
+→source="https://chatgpt.com/share/68b1f34a-2c40-8000-873e-b1d5028cce71"
