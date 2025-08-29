@@ -80,9 +80,15 @@
   <br>
   <b>Currently working on SAI – SUPER ARTIFICIAL INTELLIGENCE</b>
   <br>
-  <a href="https://github.com/saiprabhath07/SAI-CLI">
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓<br>
+┃&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🚧  UNDER CONSTRUCTION  🚧&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;┃<br>
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛<br>
+
+
+  <!-- <a href="https://github.com/saiprabhath07/SAI-CLI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saiprabhath07&repo=SAI-CLI&theme=tokyonight&hide_border=true" height="120"/>
-  </a>
+  </a> -->
+  
   <!-- Add more featured projects here if you want -->
 </p>
 
@@ -93,9 +99,11 @@
 <!-----<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saiprabhath07&theme=algolia&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 </p>   under construction------>
-![Tobi's GitHub Trophies](https://github-readme-trophy.vercel.app/api?username=saiprabhath07&show_icons=true&theme=radical)
 
 <p align="center">
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓<br>
+┃&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🚧  UNDER CONSTRUCTION  🚧&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;┃<br>
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛<br>
   <img src="https://github-readme-stats.vercel.app/api?username=saiprabhath07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiprabhath07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
