@@ -100,11 +100,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=saiprabhath07&theme=algolia&no-bg=true&margin-w=10&column=7" alt="Trophies" />
 </p>   under construction------>
 <h3 align="center">🏆 Trophies</h3>
-<p align="center">
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓<br>
-┃&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🚧  UNDER CONSTRUCTION  🚧&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;┃<br>
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛<br>
-  <img src="https://github-readme-stats.vercel.app/api?username=saiprabhath07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+![](https://github-profile-trophy.vercel.app/?username=saiprabhath07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+<img src="https://github-readme-stats.vercel.app/api?username=saiprabhath07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiprabhath07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
