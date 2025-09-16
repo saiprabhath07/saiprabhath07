@@ -96,12 +96,16 @@
 
 <h2 align="center">🏆 GitHub Stats & Trophies</h2>
 
-<!-----<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saiprabhath07&theme=algolia&no-bg=true&margin-w=10&column=7" alt="Trophies" />
-</p>   under construction------>
 <h3 align="center">🏆 Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saiprabhath07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=saiprabhath07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+<!------------
+![](https://github-profile-trophy.vercel.app/?username=saiprabhath07&theme=oldie)
+
+![](https://github-profile-trophy.vercel.app/?username=saiprabhath07&theme=oldie&margin-w=10&column=7) done T-T (if u are seeing this is with a shock, check my previous commits------>
 
 <img src="https://github-readme-stats.vercel.app/api?username=saiprabhath07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br>
