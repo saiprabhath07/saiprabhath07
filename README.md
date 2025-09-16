@@ -143,11 +143,15 @@
 ---
 
 <h2 align="center">📫 Contact</h2>
-
+<p align="center">
+  <a href="mailto:saiprabhath.07@gmail.com" alt="saiprabhath.07@gmail.com" title="saiprabhath.07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a><!-----------
+  <a href="https://twitter.com/saiprabhath07" target="blank"><img src="https://img.shields.io/twitter/follow/saiprabhath07?logo=twitter&style=for-the-badge" alt="saiprabhath07" /></a>
+  <a href="https://instagram.com/saiprabhath_07" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" title="saiprabhath_07"/></a> 
+</p>
 <p align="center">
   <b>Email:</b> <a href="mailto:saiprabhath.07@gmail.com">saiprabhath.07@gmail.com</a>
-</p>
-
+</p>----->
+  
 ---
 
 <h2 align="center">☕ Support My Work</h2>
