@@ -93,7 +93,7 @@
 </p>
 
 ---
-
+<div align="center">
 <h2 align="center">🏆 GitHub Stats & Trophies</h2>
 
 <h3 align="center">🏆 Trophies</h3>
@@ -107,11 +107,16 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=saiprabhath07&theme=oldie&margin-w=10&column=7) done T-T (if u are seeing this is with a shock, check my previous commits------>
 
+<h3 align="center">📊 Stats</h3>
+
 <img src="https://github-readme-stats.vercel.app/api?username=saiprabhath07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br>
+  <h3 align="center">📈 Streak</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiprabhath07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+</p>
 
+<div>
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
