@@ -138,7 +138,7 @@
   <a href="https://dribbble.com/saiprabhath07" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.behance.net/saiprabhath07" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.codechef.com/users/saiprabhath07" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.hackerrank.com/saiprabhath_07" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.hackerrank.com/profile/saiprabhath_07" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.leetcode.com/saiprabhath07" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
 </div>
 
